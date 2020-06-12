@@ -1,7 +1,0 @@
-package com.parthi.rest.webservices.restfulrestwebservices.jwt.resource;
-public class AuthenticationException extends RuntimeException {
-    public AuthenticationException(String message, Throwable cause) {
-        super(message, cause);
-    }
-}
-
